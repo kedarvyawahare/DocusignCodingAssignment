@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<CommandsInfo>
+     
+        <Command>
+            <CommandNumber>1</CommandNumber>
+            <Description>Put on footwear</Description>
+            <HotResponse>sandals</HotResponse>
+            <ColdResponse>boots</ColdResponse>        
+        </Command>
+		
+		<Command>
+            <CommandNumber>2</CommandNumber>
+            <Description>Put on headwear</Description>
+            <HotResponse>sun visor</HotResponse>
+            <ColdResponse>hat</ColdResponse>        
+        </Command>
+		
+		
+		<Command>
+            <CommandNumber>3</CommandNumber>
+            <Description>Put on socks</Description>
+            <HotResponse>fail</HotResponse>
+            <ColdResponse>socks</ColdResponse>        
+        </Command>
+		
+		
+		<Command>
+            <CommandNumber>5</CommandNumber>
+            <Description>Put on jacket</Description>
+            <HotResponse>fail</HotResponse>
+            <ColdResponse>jacket</ColdResponse>        
+        </Command>
+		
+		
+		<Command>
+            <CommandNumber>4</CommandNumber>
+            <Description>Put on shirt</Description>
+            <HotResponse>t-shirt</HotResponse>
+            <ColdResponse>shirt</ColdResponse>        
+        </Command>
+		
+		
+		<Command>
+            <CommandNumber>6</CommandNumber>
+            <Description>Put on pants</Description>
+            <HotResponse>shorts</HotResponse>
+            <ColdResponse>pants</ColdResponse>        
+        </Command>
+		
+		<Command>
+            <CommandNumber>7</CommandNumber>
+            <Description>Leave house</Description>
+            <HotResponse>leaving house</HotResponse>
+            <ColdResponse>leaving house</ColdResponse>        
+        </Command>
+		
+		<Command>
+            <CommandNumber>8</CommandNumber>
+            <Description>Take off pajamas</Description>
+            <HotResponse>Removing PJs</HotResponse>
+            <ColdResponse>Removing PJs</ColdResponse>        
+        </Command>
+		
+		
+		
+    
+</CommandsInfo> 
+
